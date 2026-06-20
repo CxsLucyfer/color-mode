@@ -51,9 +51,9 @@
     "@vitest/coverage-v8": "^0.34.6",
     "eslint": "^8.55.0",
     "husky": "8.0.3",
-    "nuxt": "^3.8.2",
+    "nuxt": "^4.4.8",
     "standard-version": "^9.5.0",
     "typescript": "^5.3.2",
-    "vitest": "^0.34.6"
+    "vitest": "^3.2.6"
   }
 }
